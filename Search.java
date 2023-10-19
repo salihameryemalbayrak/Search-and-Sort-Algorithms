@@ -1,5 +1,5 @@
 
-public class SalihaMeryemAlbayrak_22010310010_AramaAlgoritmaları {
+public class Search {
 
 	public static void main(String[] args) {
 		
