@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SortingAlgorithms_SalihaMeryemAlbayrak_22010310010_Hafta7 {
+public class Sort {
 
 	public static void main(String[] args) {
 		
@@ -74,7 +74,7 @@ public class SortingAlgorithms_SalihaMeryemAlbayrak_22010310010_Hafta7 {
 		}
 		
 	}
-	public static void bubbleSort(int[]arr) {   //ikili ikili bakiyor
+	public static void bubbleSort(int[]arr) {                     //ikili ikili bakiyor
 		for(int i=0;i<arr.length-1;i++) {
 			for(int j=0;j<arr.length-i-1;j++) {
 				if(arr[j]>arr[j+1]) {
